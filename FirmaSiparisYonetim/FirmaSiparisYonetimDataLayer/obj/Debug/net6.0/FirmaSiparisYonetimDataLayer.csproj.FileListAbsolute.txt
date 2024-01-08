@@ -1,0 +1,14 @@
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\bin\Debug\net6.0\FirmaSiparisYonetimDataLayer.deps.json
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\bin\Debug\net6.0\FirmaSiparisYonetimDataLayer.dll
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\bin\Debug\net6.0\FirmaSiparisYonetimDataLayer.pdb
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.AssemblyInfo.cs
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.dll
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\refint\FirmaSiparisYonetimDataLayer.dll
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.pdb
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\ref\FirmaSiparisYonetimDataLayer.dll
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\bin\Debug\net6.0\FirmaSiparisYonetimDataLayer.runtimeconfig.json
+C:\Users\mypc\source\repos\FirmaSiparisYonetim\FirmaSiparisYonetimDataLayer\obj\Debug\net6.0\FirmaSiparisYonetimDataLayer.genruntimeconfig.cache
